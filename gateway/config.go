@@ -8,6 +8,7 @@ import (
 )
 
 type (
+	// 浅浅提交一下看看~
 	// GatewayConf is the configuration for gateway.
 	GatewayConf struct {
 		rest.RestConf
